@@ -1,4 +1,4 @@
-view: products {
+view: products_spoke {
   sql_table_name: demo_db.products ;;
   drill_fields: [id]
 

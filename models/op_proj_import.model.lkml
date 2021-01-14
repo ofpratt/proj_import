@@ -1,7 +1,7 @@
 connection: "board_games"
 
 # include all the views
-include: "/views/**/*.view"
+include: "/op_proj_import/views/gamelog.view"
 
 datagroup: op_proj_import_default_datagroup {
   # sql_trigger: SELECT MAX(id) FROM etl_log;;

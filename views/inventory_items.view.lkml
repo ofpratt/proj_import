@@ -1,4 +1,4 @@
-view: inventory_items {
+view: inventory_items_spoke {
   sql_table_name: demo_db.inventory_items ;;
   drill_fields: [id]
 

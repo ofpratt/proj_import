@@ -1,4 +1,4 @@
-view: events {
+view: events_spoke {
   sql_table_name: demo_db.events ;;
   drill_fields: [id]
 
